@@ -1,7 +1,9 @@
 Luke Skywalker
 Han solo
+Jabba the Hutt
 Chewbacca
 Master Yoda
 Leia Organa
-Jabba the Hutt
 C-3PO
+Boba Fett
+
