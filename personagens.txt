@@ -4,3 +4,4 @@ Chewbacca
 Master Yoda
 Leia Organa
 Jabba the Hutt
+C-3PO
