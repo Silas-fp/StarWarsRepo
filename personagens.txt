@@ -7,3 +7,6 @@ Leia Organa
 C-3PO
 Boba Fett
 
+Rey
+Finn
+
