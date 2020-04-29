@@ -1,6 +1,5 @@
 Luke Skywalker
 Han solo
-Jabba the Hutt
 Chewbacca
 Master Yoda
 Leia Organa
@@ -11,3 +10,4 @@ Finn
 Kyle Ren
 Poe Dameron
 Boba Fett
+Jabba the Hutt
